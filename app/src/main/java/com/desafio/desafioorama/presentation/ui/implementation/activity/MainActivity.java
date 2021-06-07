@@ -1,4 +1,4 @@
-package com.desafio.desafioorama.presentation.ui;
+package com.desafio.desafioorama.presentation.ui.implementation.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
